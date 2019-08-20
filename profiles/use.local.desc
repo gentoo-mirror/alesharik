@@ -6,3 +6,4 @@ sys-devel/zapcc:default-compiler-rt - Use compiler-rt instead of libgcc as the d
 sys-devel/zapcc:default-libcxx - Use libc++ instead of libstdc++ as the default stdlib for clang
 sys-devel/zapcc:static-analyzer - Install the Clang static analyzer
 sys-devel/zapcc:z3 - Enable the static analyzer constraint manager backend using sci-mathematics/z3
+sys-kernel/rt-sources:deblob - Remove binary blobs from kernel sources to provide libre license compliance.
