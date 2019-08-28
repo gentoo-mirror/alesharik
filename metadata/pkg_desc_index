@@ -1,4 +1,5 @@
 dev-java/async-profiler 1.5: Java profiles which does not suffer from Safepoint bias problem
+dev-python/kubernetes 10.0.1: Kubernetes python client
 sys-devel/zapcc 9999: ZapCC compiler
 sys-kernel/rt-sources 5.2.9_p3: Full Linux 5.2 kernel sources with the CONFIG_PREEMPT_RT patch
 x11-misc/xwinwrap 9999: Utility to replace a desktop background with a movie, screensaver, etc.
