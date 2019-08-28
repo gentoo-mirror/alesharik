@@ -5,11 +5,12 @@ EAPI=7
 
 PYTHON_COMPAT=( python{2_7,3_6} )
 
-inherit distutils-r1
+inherit git-r3 distutils-r1
 
 DESCRIPTION="Kubernetes python client"
 HOMEPAGE="https://github.com/kubernetes-client/python"
-SRC_URI="https://github.com/kubernetes-client/python/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+EGIT_REPO_URI="https://github.com/kubernetes-client/python.git"
+EGIT_BRANCH="release-${PV}"
 
 LICENSE="Apache-2.0"
 SLOT="0"
@@ -28,5 +29,3 @@ RDEPEND=">=dev-python/certifi-14.05.14[${PYTHON_USEDEP}]
 	>=dev-python/urllib3-1.24.2[${PYTHON_USEDEP}]"
 DEPEND="${RDEPEND}
 	>=dev-python/setuptools-21.0.0[${PYTHON_USEDEP}]"
-
-S="${WORKDIR}/python-${PV}"
