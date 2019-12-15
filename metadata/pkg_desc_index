@@ -1,5 +1,5 @@
 dev-java/async-profiler 1.5: Java profiles which does not suffer from Safepoint bias problem
-dev-python/astor 0.8.0: Read/rewrite/write Python ASTs
+dev-python/astor 0.8.0 0.8.1: Read/rewrite/write Python ASTs
 dev-python/kubernetes 10.0: Kubernetes python client
-sci-libs/tensorflow 2.0.0: Computation framework using data flow graphs for scalable machine learning
+sci-libs/tensorflow 2.1.0_rc0: Computation framework using data flow graphs for scalable machine learning
 x11-misc/xwinwrap 9999: Utility to replace a desktop background with a movie, screensaver, etc.
