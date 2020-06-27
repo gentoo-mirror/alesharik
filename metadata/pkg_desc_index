@@ -1,4 +1,5 @@
 app-vim/ansible-vim 2.1 9999: vim plugin: ansible support for vim
+app-vim/vim-mikrotik 9999: vim plugin: routeros scripts support for vim
 dev-java/async-profiler 1.5: Java profiles which does not suffer from Safepoint bias problem
 dev-java/graalvm-bin 20.0.0-r8 20.0.0-r11: GraalVM prebuild binaries
 dev-java/java-sdk-docs 13.0.1 14.0.1: Oracle's documentation bundle (including API) for Java SE
