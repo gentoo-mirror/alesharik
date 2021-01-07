@@ -1,11 +1,9 @@
-app-admin/kubectx 0.9.1: Fast way to switch between clusters and namespaces in kubectl
 app-vim/ansible-vim 2.1 9999: vim plugin: ansible support for vim
 app-vim/vim-mikrotik 9999: vim plugin: routeros scripts support for vim
 dev-java/async-profiler 1.5: Java profiles which does not suffer from Safepoint bias problem
 dev-java/graalvm-bin 20.0.0-r8 20.0.0-r11: GraalVM prebuild binaries
 dev-java/java-sdk-docs 13.0.1 14.0.1 15.0.1: Oracle's documentation bundle (including API) for Java SE
 dev-java/openjdk-bin 13.0.91-r1 14.0.36-r1 15.0.9: Prebuilt Java JDK binaries provided by AdoptOpenJDK
-dev-python/astor 0.8.0 0.8.1: Read/rewrite/write Python ASTs
 dev-python/kubernetes 10.0 11.0 11.0-r1: Kubernetes python client
 sci-libs/tensorflow 2.1.0_rc0: Computation framework using data flow graphs for scalable machine learning
 x11-misc/xwinwrap 9999: Utility to replace a desktop background with a movie, screensaver, etc.
