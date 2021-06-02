@@ -8,5 +8,3 @@ dev-java/openjdk-bin:gentoo-vm - Allow this JDK to be recognised by Gentoo (pack
 dev-java/openjdk-bin:headless-awt - Don't install the X backend for AWT, needed by some GUIs (used to be X flag)
 dev-java/openjdk-bin:source - Install JVM sources
 dev-java/openjdk-bin:webstart - Provide javaws command through symlink to icedtea-web
-sci-libs/tensorflow:cuda - Enable support for nVidia CUDA
-sci-libs/tensorflow:xla - XLA (Accelerated Linear Algebra) Optimizing Compiler for TensorFlow
