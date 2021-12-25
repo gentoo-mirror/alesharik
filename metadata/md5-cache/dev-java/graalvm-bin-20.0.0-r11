@@ -11,5 +11,5 @@ RDEPEND=>=sys-libs/glibc-2.2.5:* sys-libs/zlib dev-java/java-config app-eselect/
 RESTRICT=preserve-libs splitdebug
 SLOT=11
 SRC_URI=https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-20.0.0/graalvm-ce-java11-linux-amd64-20.0.0.tar.gz native-image? ( https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-20.0.0/native-image-installable-svm-java11-linux-amd64-20.0.0.jar )
-_eclasses_=multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	pax-utils	fce6ad998516159787b92e8043167889	prefix	d04f14b297013ad1410550c0757f14f8	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	java-vm-2	13d8685b21341659c8861cf747ee8ab2
+_eclasses_=multilib	8a0248f83ae77f945d376ff4a7953257	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	pax-utils	fce6ad998516159787b92e8043167889	prefix	d04f14b297013ad1410550c0757f14f8	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	java-vm-2	13d8685b21341659c8861cf747ee8ab2
 _md5_=6d292c9125fa7f426515fb8a999d187e
